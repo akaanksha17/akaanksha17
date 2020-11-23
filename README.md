@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NLP.
 - 👯 I’m looking to collaborate on any Data Science project.
 - 🤔 I’m looking for help with deployment of models on web
-- 💬 Ask me about Python, Machine Learning
+- 💬 Ask me about Python, Machine Learning.
 - 📫 How to reach me: connect to me on linkedin- https://www.linkedin.com/in/akaanksha-mishra-2b1192194/
