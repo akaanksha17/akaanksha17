@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any Data Science project.
 - 🤔 I’m looking for help with deployment of models on web
 - 💬 Ask me about Python, Machine Learning.
-- 📫 How to reach me: connect to me on linkedin- https://www.linkedin.com/in/akaanksha-mishra-2b1192194/
+- 📫 How to reach me: connect to me on [LinkedIn](https://www.linkedin.com/in/akaanksha-mishra-2b1192194/)
+
